@@ -1,7 +1,7 @@
 # TF-NetworkConnector
 ThreeFold Planetary Network is a desktop client (Windows, macOS, Linux) to connect to the ThreeFold Planetary Network. It's a GUI client to connect to the Planetary Network with one click.
 
-![](img/planetary_network_1.png)
+![](img/Planetary_network_1.png)
 
 
 ## More information
